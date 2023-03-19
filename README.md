@@ -2,7 +2,9 @@ All the code and information in this repository, including the README file, was 
 
 # Tic Tac Toe
 
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. The game allows you to play against the computer, which uses a combination of the Minimax algorithm and random moves for making its moves.
+A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. The game allows you to play against the computer, which uses a combination of the Minimax algorithm and random moves for making its moves. 
+
+Try it here: https://gamedevalice.github.io/tic-tac-toe/
 
 ![Tic Tac Toe Screenshot](screenshot.png)
 
